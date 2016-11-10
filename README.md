@@ -3,7 +3,9 @@ This project is about hosting a web application on virtual machine. This project
 
  ![](https://cloud.githubusercontent.com/assets/15641327/20162780/13ddb47e-a6ac-11e6-92c6-ead031ad5728.png)
 
-This project is reachable under: http://ec2-35-162-67-243.us-west-2.compute.amazonaws.com/. This AWS instance was provided free by Udacity. And it may expire soon. But one can follow same steps to configure own virtual machine. 
+This project is reachable under: http://ec2-35-162-67-243.us-west-2.compute.amazonaws.com/.
+SSH port : 2200. Public-Ip-Address: 35.162.67.243
+This AWS instance was provided free by Udacity. And it may expire soon. But one can follow same steps to configure own virtual machine. 
 ##ABOUT PROJECT
 The Item Catalog project allows to edit/delete/update an item in particular category. The same framework can be used for creating restaurant menu, movie ticket application etc. For authorization, I have used oAuth2.0 authentication with facebook and google+.  The original project uses sqlite database which is achieved through sqlAlchemy. 
 For deployment purpose, I will be using postgresql and apache2 web server. 
