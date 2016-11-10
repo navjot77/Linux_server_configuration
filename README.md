@@ -19,7 +19,6 @@ For deployment purpose, I will be using postgresql and apache2 web server.
   `$ chmod 700 ~/.ssh/udacity_key.rsa`
 
 
-
 ###2.	SSH into your server
 1.	Ssh into AWS instance:
 
